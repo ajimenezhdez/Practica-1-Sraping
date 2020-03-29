@@ -1,4 +1,5 @@
 # Practica-1-Sraping
+
 ## Español
 Scraper de datos basado en estadísticas de fútbol  escrito con python en el contexto de la asignatura "Tipología de datos y ciclo de vida de los datos" para el máster de ciencia de datos en la Universitat Oberta de Catalunya
 Para ejecutar el script es necesario importar las siguientes librerías que aparecen en el fichero `requirements.txt`:
@@ -28,3 +29,6 @@ Se generaran dos ficheros csv en la carpeta `csv`.
 ```
 player.csv
 team.csv
+
+Jorge jajajaja
+
