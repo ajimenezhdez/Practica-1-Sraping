@@ -4,13 +4,10 @@
 Scraper de datos basado en estadísticas de fútbol  escrito con python en el contexto de la asignatura "Tipología de datos y ciclo de vida de los datos" para el máster de ciencia de datos en la Universitat Oberta de Catalunya
 Para ejecutar el script es necesario importar las siguientes librerías que aparecen en el fichero `requirements.txt`:
 ```
-beautifulsoup4==4.8.1
-pandas==0.25.3
-python-dateutil==.8.1
-requests==2.22.0
-urllib3==1.25.6
-time ==
-json == 
+beautifulsoup4==4.7.1
+pandas==0.24.2
+requests==2.21.0
+urllib3==1.24.1
 
 ```
 Pueden instalarse fácilmente utilizando:
