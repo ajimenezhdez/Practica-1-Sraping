@@ -5,11 +5,12 @@ Scraper de datos basado en estadísticas de fútbol  escrito con python en el co
 Para ejecutar el script es necesario importar las siguientes librerías que aparecen en el fichero `requirements.txt`:
 ```
 beautifulsoup4==4.8.1
-numpy==1.17.3
 pandas==0.25.3
 python-dateutil==.8.1
 requests==2.22.0
 urllib3==1.25.6
+time ==
+json == 
 
 ```
 Pueden instalarse fácilmente utilizando:
@@ -25,10 +26,11 @@ python main.py
 Donde **player.csv** es un csv con cabecera (con ";" como delimitador) donde la primera columna son los nombres 
 que se desean scrapear.
 
-Se generaran dos ficheros csv en la carpeta `csv`. 
-```
-player.csv
+Se generaran dos ficheros csv en la carpeta `csv`. player.csv
 team.csv
 
-Esta linea es una prueba
+3 ficheros .py que contiene la carpeta src. main.py. playerScraper, TeamScraper.
+```
+
+
 
