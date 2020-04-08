@@ -20,8 +20,6 @@ El script se debe ejecutar de la siguiente manera:
 python main.py
 
 
-Donde **player.csv** es un csv con cabecera (con ";" como delimitador) donde la primera columna son los nombres 
-que se desean scrapear.
 
 Se generara un fichero csv en la carpeta `csv`. Stats_Players_LaLiga_19_20.csv
 
