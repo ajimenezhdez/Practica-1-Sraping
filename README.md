@@ -1,4 +1,4 @@
-# Practica-1-Scraping (En construcción)
+# Practica-1-Scraping
 
 ## Español
 Scraper de datos basado en estadísticas de fútbol  escrito con python en el contexto de la asignatura "Tipología de datos y ciclo de vida de los datos" para el máster de ciencia de datos en la Universitat Oberta de Catalunya
@@ -23,10 +23,10 @@ python main.py
 Donde **player.csv** es un csv con cabecera (con ";" como delimitador) donde la primera columna son los nombres 
 que se desean scrapear.
 
-Se generaran dos ficheros csv en la carpeta `csv`. player.csv
-team.csv
+Se generara un fichero csv en la carpeta `csv`. Stats_Players_LaLiga_19_20.csv
 
-3 ficheros .py que contiene la carpeta src. main.py. playerScraper, TeamScraper.
+
+2 ficheros .py que contiene la carpeta src. main.py. playerScraper.
 ```
 
 
