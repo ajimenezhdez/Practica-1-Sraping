@@ -6,6 +6,8 @@ Descripción de los distintos ficheros y directorios:
   Carpeta csv: Se encuentra el csv Stats_Players_LaLiga_19_20.csv generado del proceso de Scraper.
   Carpeta pdf: Se encuentra el documento PDF donde se ha llevado a cabo la resolución de todas las preguntas de la práctica 1
   Carpeta src: Se encuentran los dos ficheros que contienen el código python para realizar el Scraper. main.py. playerScraper.py
-
+  
+Enlace el github: https://github.com/ajimenezhdez/Practica-1-Sraping
+Enlace al csv en Zenodo: https://zenodo.org/record/3744264#.Xo2fMqtR1hE
 
 NOTA Apartado 11: Para la realización del DOI en Zenodo, el documento PDF no tiene la entrega final ya que para mostrar la creación del DOI necesitamos mostrarlo en el PDF que se esta escribiendo. Es decir, el DOI de Zenodo fue creado anterior a la versión final del PDF
