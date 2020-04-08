@@ -1,0 +1,8 @@
+
+Componentes del grupo: Alfonso Jimménez Hernández y Jorge Martín de la Calle.
+
+Descripción de los distintos ficheros y directorios:
+
+  Carpeta csv: Se encuentra el csv Stats_Players_LaLiga_19_20.csv generado del proceso de Scraper.
+  Carpeta pdf: Se encuentra el documento PDF donde se ha llevado a cabo la resolución de todas las preguntas de la práctica 1
+  Carpeta src: Se encuentran los dos ficheros que contienen el código python para realizar el Scraper. main.py. playerScraper.py
